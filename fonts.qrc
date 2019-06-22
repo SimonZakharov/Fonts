@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="fonts">
+    <file>FONT.FNT</file>
+    <file>FONT_S.FNT</file>
+  </qresource>
+</RCC>
